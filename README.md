@@ -4,7 +4,7 @@ Rápida descrição do objetivo de fazer esse projeto
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
+| :sparkles: Nome        | **Gerador de Etiquetas Logística**
 | :label: Tecnologias | Python
 | :rocket: URL         | https://github.com/marsiygor/Gerador-de-etiquetas-logisticas-para-Ecommerce.git
 

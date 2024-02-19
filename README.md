@@ -61,7 +61,7 @@ As tecnologias utilizadas neste projeto são:
 
 ## Autores e Colaboradores
 
-Este projeto foi criado por [Ygor Marrsi] ([marsiygor](https://github.com/marsiygor)).
+Este projeto foi criado por [Ygor Marsi] ([marsiygor](https://github.com/marsiygor)).
 
 Se você quiser contribuir com este projeto, sinta-se à vontade para enviar um pull request ou entrar em contato comigo.
 

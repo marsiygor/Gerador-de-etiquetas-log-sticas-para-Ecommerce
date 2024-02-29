@@ -8,7 +8,7 @@ Este projeto tem como objetivo facilitar o processo de envio de encomendas para 
 
 ## Status
 
-Este projeto está em desenvolvimento.
+Projeto finalizado
 
 ## Funcionalidades
 
